@@ -1,0 +1,96 @@
+.decla{
+    padding: 0px;
+   
+    width: 100%;
+    height: 300px;
+}
+.dech{
+    margin: 0px;
+}
+
+.dechead{
+    font-weight: 800;
+    color: azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+ 
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+   
+    border-radius: 50px;
+  }
+  
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+ 
+  
+}
+
+.fa-github {
+    background: gray;
+    color: white;
+   
+    
+  }
+
+  .fa-envelope{
+    background: rgb(82, 82, 194);
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+
+  .deccol{
+    width: 100%;
+    height: 200px;
+   
+  }
+
+  .myimg{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+  }
+  .ques{
+    color: azure;
+    font-weight: 800;
+
+  }
+
+  .decr{
+    padding: 10px;
+    background-color: black;
+    margin: 0px;
+  }
+  .decright{
+    color: silver;
+    font-size: 15px;
+    font-weight: 400;
+    font-style:unset;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }

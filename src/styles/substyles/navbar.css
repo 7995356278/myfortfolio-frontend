@@ -1,0 +1,17 @@
+.brand-img {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+
+
+.adjust{
+    margin-left: 50px;
+}
+
+a:active {
+    background-color: rgb(31, 4, 57);
+  }
+
+
+
