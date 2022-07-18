@@ -15,7 +15,7 @@ export class Declaration extends Component {
                     </div>
 
                     <div className='col-12 col-xl-6 col-lg-6 col-md-8 col-sm-12 col-xs-12 deccol'>
-                          <span className='mt-3'><a href="http://localhost:3000"><img src="https://media-exp2.licdn.com/dms/image/C5603AQF9p1t2wwQh7w/profile-displayphoto-shrink_100_100/0/1651144180365?e=1661990400&v=beta&t=nhDjn_SIPSMXsR9nc8QFeJEUEwfn0PTPRIngdtOGhlk" className='myimg' /><text className='mx-3 bg-white'>My Portfolio</text></a></span>
+                          <span className='mt-3'><a href="https://myportfolio-frontend-website.herokuapp.com/"><img src="https://media-exp2.licdn.com/dms/image/C5603AQF9p1t2wwQh7w/profile-displayphoto-shrink_100_100/0/1651144180365?e=1661990400&v=beta&t=nhDjn_SIPSMXsR9nc8QFeJEUEwfn0PTPRIngdtOGhlk" className='myimg' /><text className='mx-3 bg-white'>My Portfolio</text></a></span>
                           <div className='mt-3'>
                           <a href="https://www.facebook.com/madhu.garapati.1" class="fa fa-facebook mx-2"></a>
                           <a href="https://www.linkedin.com/in/madhu-garapati-b193b4201/" class="fa fa-linkedin mx-2"></a>
