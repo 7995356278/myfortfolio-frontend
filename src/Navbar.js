@@ -8,7 +8,7 @@ export default function Navabar() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
     <Container>
-    <Navbar.Brand href="http://localhost:3000"><img src="https://media-exp2.licdn.com/dms/image/C5603AQF9p1t2wwQh7w/profile-displayphoto-shrink_100_100/0/1651144180365?e=1661990400&v=beta&t=nhDjn_SIPSMXsR9nc8QFeJEUEwfn0PTPRIngdtOGhlk" className="brand-img"/></Navbar.Brand>
+    <Navbar.Brand href="https://myportfolio-frontend-website.herokuapp.com/"><img src="https://media-exp2.licdn.com/dms/image/C5603AQF9p1t2wwQh7w/profile-displayphoto-shrink_100_100/0/1651144180365?e=1661990400&v=beta&t=nhDjn_SIPSMXsR9nc8QFeJEUEwfn0PTPRIngdtOGhlk" className="brand-img"/></Navbar.Brand>
     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
     <Navbar.Collapse id="responsive-navbar-nav">
       <Nav className="me-auto">
