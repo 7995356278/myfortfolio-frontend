@@ -32,7 +32,7 @@ export class Declaration extends Component {
                         <h3 className='ques mt-3 mx-2'>Ask Me a Question</h3>
 
                         <form action="https://myportfolio-backend-site.herokuapp.com/resquestion" method="post" className='mt-3'>
-                        <input className='mx-4' type="text" placeholder='enter a question' name='question' required /><br />
+                        <input className='mx-4' type="text" placeholder='enter a question' name='about' required /><br />
                         <button  class=" btn btn-success mx-4 mt-3" name="submit" type="submit">submit</button>
                     </form>
 
